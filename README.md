@@ -1,5 +1,5 @@
-# Rust_primer
-Getting started with rust 
+# The Rust Programming Language
 
+![Build Status](https://github.com/rust-lang/book/workflows/CI/badge.svg)
 
-Instructions are following through the link: https://www.rust-lang.org/
+This repository contains the source of "The Rust Programming Language" book.
