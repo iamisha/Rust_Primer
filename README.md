@@ -1,5 +1,4 @@
 # Rust_primer
-# Rust_Primer
 Getting started with rust 
 
 
