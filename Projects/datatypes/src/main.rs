@@ -1,3 +1,4 @@
+
 fn main() {
     let x = 2.0; // f64
 
@@ -59,5 +60,29 @@ fn main() {
     println!("{six_point_four}");
     
     // empty tuple  is called the unit
-    
+
+    // The Array Type
+    let a = [1, 2, 3, 4, 5];
+    println!("Array: {:?}", a);
+
+    let months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+    println!("Months: {:?}", months);
+
+    // another way of printing all the values of the array using loop 
+    for n in months.iter(){
+        println!("{}",n);
+    }
+
+    // same value for each element in the array
+    let b = [3; 5];
+    println!("Array with same element: {:?}",b);
+
+    // Accessing array elements
+    let first_month = months[0];
+    let last_month = months[11];
+    println!("{first_month}");
+    println!("{last_month}");
+
+
+   
 }
