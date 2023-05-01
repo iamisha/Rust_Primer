@@ -52,7 +52,7 @@ Rust is for people who want to build the Rust programming language, community,
 developer tools, and libraries. We’d love to have you contribute to the Rust
 language.
 
-### People Who Value Speed and Stability
+### People Who Value Speed and Stability 
 
 Rust is for people who crave speed and stability in a language. By speed, we
 mean both how quickly Rust code can run and the speed at which Rust lets you

@@ -22,7 +22,7 @@ fn main() {
     }
     println!("The value of x is: {x}");
 
-    // another purpose
+    // another purpose 
 
     // let mut spaces = " "; gives error
     let spaces = "      ";
